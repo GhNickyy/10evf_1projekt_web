@@ -1,0 +1,43 @@
+body{
+    background-image: url(.//1129018.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    margin-left: 175px;
+    margin-right: 175px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1{
+    color: rgb(183, 183, 183);
+    text-align: center;
+    font-size: 60px;
+    line-height: 80px;
+}
+
+h2{
+    color: rgb(211, 211, 211);
+    font-size: 45px;
+    text-align: left;
+    line-height: 65px;
+}
+
+h3{
+    color: rgb(234, 234, 234);
+    font-size: 30px;
+    text-align: left;
+}
+
+p{
+    color: rgb(255, 255, 255);
+    line-height: 50px;
+}
+
+li{
+    color: rgb(185, 185, 185);
+    line-height: 40px;
+    list-style-type: square;
+}
+
+table{
+    color: rgb(185, 185, 185);
+}
