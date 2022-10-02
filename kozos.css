@@ -48,3 +48,8 @@ li{
 table{
     color: rgb(185, 185, 185);
 }
+
+img{
+    width: 450px;
+    height: 250px;
+}
