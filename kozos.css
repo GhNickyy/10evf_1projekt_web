@@ -1,7 +1,7 @@
 body{
     background-image: url(./1129018.jpg);
     background-repeat: no-repeat;
-    background-size: auto;
+    background-size: cover;
     margin-left: 175px;
     margin-right: 175px;
     font-family: Georgia, 'Times New Roman', Times, serif;
