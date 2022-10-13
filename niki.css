@@ -1,0 +1,16 @@
+
+#kk:link {
+    color: rgb(209, 209, 209);
+    text-decoration: none;
+}
+
+#kk:visited {
+    color: rgb(68, 62, 62);
+}
+#kk:hover {
+    color: rgb(41, 91, 134);
+}
+  
+#kk:active {
+    color: rgb(255, 255, 255);
+}
