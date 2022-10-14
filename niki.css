@@ -1,6 +1,6 @@
 
 #kk:link {
-    color: rgb(209, 209, 209);
+    color: rgb(68, 62, 62);
     text-decoration: none;
 }
 
@@ -12,5 +12,46 @@
 }
   
 #kk:active {
-    color: rgb(255, 255, 255);
+    color: rgb(68, 62, 62);
+}
+
+#kep{
+    
+    border-radius: 30px; 
+    height: 25%; 
+    width: 50%; 
+    margin-left: 260px; 
+    margin-top: 30px; 
+    margin-bottom: 30px;
+}
+
+#kep2{
+    float: right;
+    border-radius: 30px; 
+    height: 25%; 
+    width: 45%; 
+    margin-right: 20px;
+    margin-left: 50px; 
+    margin-top: 30px; 
+    margin-bottom: 30px;
+}
+
+#kep3{
+    float: right;
+    border-radius: 30px; 
+    width: 45%; 
+    margin-right: 20px;
+    margin-left: 50px; 
+    margin-top: 30px; 
+    margin-bottom: 20px;
+}
+
+#kep4{
+    float: right;
+    border-radius: 30px; 
+    width: 45%; 
+    margin-right: 20px;
+    margin-left: 50px; 
+    margin-top: 30px; 
+    margin-bottom: 30px;
 }
