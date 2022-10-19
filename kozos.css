@@ -70,3 +70,11 @@ footer{
     font-size: 13px;
     color: wheat;
 }
+
+a:hover{
+    color:red;
+}
+
+a:visited{
+    color:white;
+;
