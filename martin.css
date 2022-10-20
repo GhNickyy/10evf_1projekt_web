@@ -1,8 +1,9 @@
 .kep2{
-    padding-left: 230px;
     width: 650px;
     height: 250px;
-    margin-bottom: 20px;
+    border-radius: 10px;
+    margin: auto;
+    display: block;
 }
 
 table{
@@ -12,7 +13,7 @@ table{
 table, th, td {
     border: 1px solid white;
     border-radius: 10px;
-  }
+}
 
 th{
     text-align: center;
@@ -21,6 +22,7 @@ th{
 
 td{
     text-align: center;
+    font-weight: normal;
 }
 
 th,td{
@@ -28,8 +30,8 @@ th,td{
 }
 
 p{
-    margin-left: 240px;
-    margin-right: 240px;
+    margin-left: 130px;
+    margin-right: 130px;
 }
 
 h3{
