@@ -1,17 +1,16 @@
 body{
-    background-image: url(./1129018.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    margin-left: 175px;
-    margin-right: 175px;
+    background-color: #171717;
+    margin: auto;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 h1{
-    color: rgb(183, 183, 183);
+    color: #171717;
     text-align: center;
     font-size: 60px;
     line-height: 100px;
+    background-color: #F8F0E3;
+    font-weight: bold;
 }
 
 h2{
@@ -56,12 +55,15 @@ p{
 }
 
 table{
-    color: rgb(185, 185, 185);
+    color: #e5dbc3;
 }
 
 img{
     width: 650px;
     height: 250px;
+    border-radius: 10px;
+    margin: auto;
+    display: block;
 }
 
 footer{
@@ -77,4 +79,4 @@ a:hover{
 
 a:visited{
     color:white;
-;
+}
