@@ -18,12 +18,14 @@ h2{
     font-size: 45px;
     text-align: left;
     line-height: 65px;
+    margin: 20px 0px 20px 0px;
 }
 
 h3{
     color: rgb(234, 234, 234);
     font-size: 30px;
     text-align: left;
+    margin: 20px 0px 20px 0px;
 }
 
 p{
@@ -32,10 +34,7 @@ p{
     background-color: gray;
     font-weight: bolder;
     font-size: 15px;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    padding-right: 40px;
-    padding-left: 40px;
+    padding: 20px 40px 20px 40px;
     border-radius: 20px;
     margin-left: 130px;
     margin-right: 130px;
@@ -49,11 +48,9 @@ p{
     background-color: gray;
     font-weight: bolder;
     font-size: 15px;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    padding-right: 40px;
-    padding-left: 40px;
+    padding-top: 20px 40px 20px 40px;
     border-radius: 20px;
+    margin: auto 1050px auto 130px;
 }
 
 table{

@@ -1,0 +1,24 @@
+.fontosabbak{
+    margin: 10px 700px 10px 350px;
+}
+
+.image{
+    width: 30%; 
+    margin: 0px 130px 0px 10px;
+}
+    
+.forras:link {
+    color: rgb(68, 62, 62);
+    text-decoration: none;
+}
+
+.forras:visited {
+    color: rgb(68, 62, 62);
+}
+.forras:hover {
+    color: rgb(41, 91, 134);
+}
+  
+.forras:active {
+    color: rgb(68, 62, 62);
+}

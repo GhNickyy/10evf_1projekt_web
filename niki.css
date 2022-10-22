@@ -1,57 +1,66 @@
 
-#kk:link {
+.kk:link {
     color: rgb(68, 62, 62);
     text-decoration: none;
 }
 
-#kk:visited {
+.kk:visited {
     color: rgb(68, 62, 62);
 }
-#kk:hover {
+.kk:hover {
     color: rgb(41, 91, 134);
 }
   
-#kk:active {
+.kk:active {
     color: rgb(68, 62, 62);
 }
 
-#kep{
+#lista2{
+    color: rgb(185, 185, 185);
+    line-height: 40px;
+    list-style-type: circle;
+    color: rgb(50, 50, 50);
+    background-color: gray;
+    font-weight: bolder;
+    font-size: 15px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 40px;
+    padding-left: 40px;
+    border-radius: 20px;
+    margin: auto 130px auto 130px;
+}
+
+.margin{
+    margin-right: 450px;
+    margin-left: 450px;
+}
+.kep{
     
     border-radius: 30px; 
     height: 25%; 
     width: 50%; 
-    margin-left: 260px; 
-    margin-top: 30px; 
-    margin-bottom: 30px;
+    margin: auto auto 20px auto;
 }
 
-#kep2{
+.kep2{
     float: right;
     border-radius: 30px; 
     height: 25%; 
-    width: 45%; 
-    margin-right: 20px;
-    margin-left: 50px; 
-    margin-top: 30px; 
-    margin-bottom: 30px;
+    width: 30%; 
+    margin: 3px 130px 0px 10px;
 }
 
-#kep3{
+.kep3{
+    float: right;
+    border-radius: 30px; 
+    width: 25%;
+    margin: 3px 130px 0px 10px;
+}
+
+.kep4{
     float: right;
     border-radius: 30px; 
     width: 45%; 
-    margin-right: 20px;
-    margin-left: 50px; 
-    margin-top: 30px; 
-    margin-bottom: 20px;
-}
-
-#kep4{
-    float: right;
-    border-radius: 30px; 
-    width: 45%; 
-    margin-right: 20px;
-    margin-left: 50px; 
-    margin-top: 30px; 
-    margin-bottom: 30px;
+    margin: 0px 130px 0px 10px;
 }
