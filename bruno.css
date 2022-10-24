@@ -19,3 +19,16 @@ td{
 th,td{
     padding: 10px;
 }
+
+p{
+    margin-left: 130px;
+    margin-right: 130px;
+}
+
+.kep{
+    width: 650px;
+    height: 250px;
+    border-radius: 10px;
+    margin: auto;
+    display: block;
+}
